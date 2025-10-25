@@ -1,3 +1,11 @@
 * {
   font-family: "Titillium Web", sans-serif;
 }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  align-items: center;
+  padding: 2rem;
+  box-sizing: border-box;
+}
